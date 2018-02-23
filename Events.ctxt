@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ begin()
+comment1.params=point
+comment1.target=void\ onMousePress(objectdraw.Location)
+comment2.params=s
+comment2.target=boolean\ isCorrectFormat(java.lang.String)
+numComments=3
