@@ -1,0 +1,2 @@
+# Cryptography
+ * The screen shows text reading Click to Load message and a shift counter equal to zero. When the user clicks on the Click to Load message  * a message will appear. The user can then click on the shift button which will assign each letter in the message to a new letter in the  * alphabet to create a code. Once the user decides how much they would like to shift, they may begin clicking on the message and start   * coding the message one letter at a time. 
